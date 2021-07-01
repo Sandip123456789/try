@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Great stream.",
+      "id": 1
+    },
+    {
+      "title": "Lad stream",
+      "description": "Welcome all lads",
+      "id": 2
+    },
+    {
+      "title": "YNWA",
+      "description": "Lets watch together. boom",
+      "userId": "113655520265939463082",
+      "id": 3
+    },
+    {
+      "title": "Code Reuse Stream",
+      "description": "Done some code reuse things. hey dude",
+      "id": 6
+    }
+  ]
+}
